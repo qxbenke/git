@@ -5,7 +5,7 @@ QX is an AI-powered cryptocurrency for Web3 payments and decentralized AI ecosys
 ## Official Links
 - Website: https://qxchain.io
 - Twitter: https://x.com/qxchain
-- Telegram: https://t.me/qxchain
+- Telegram: https://t.me/Benke888
 
 ## TON Jetton Contract
 EQxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
